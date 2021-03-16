@@ -2,7 +2,8 @@
 
 Here is our quick CRA application that demonstrates how lifecycles work in class components
 
-
+# Lifecycles Method Diagram
+![alt text](https://github.com/Zioq/lifecycles-lesson/blob/lifecycles/img/lifecycle.png)
 # How to fork and clone
 
 One quick note about cloning this project. If you wish to make commits and push the code up after cloning this repo, you should fork the project first. In order to own your own copy of this repository, you have to fork it so you get your own copy on your own profile!
